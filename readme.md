@@ -18,7 +18,7 @@
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to dance & make memes 😄
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saon00&text_color=91c752&bg_color=1f2430)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saon00&text_color=91c752&bg_color=1f2430&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
