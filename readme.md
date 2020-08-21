@@ -1,5 +1,5 @@
 ### Hi , I'm [Saon!](https://github.com/Saon00) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saon00&label=Views&color=blue&style=plastic" alt="Saon00" /> </p>
 ##### Currently I'm a student. I've some passion in developing Software. Besides, I like ML, AI too. 
 
 ### Connect with me:
