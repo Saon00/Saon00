@@ -7,7 +7,7 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-SaonSrabon-black?color=2b2b2b&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/saon.srabon/)
 [![Instaagram Follow](https://img.shields.io/badge/%20-Saon__Srabon-black?color=2b2b2b&labelColor=FD1D1D&logo=instagram&logoColor=ffffff)](https://www.instagram.com/saon__srabon/)
 [![Twitter Follow](https://img.shields.io/badge/%20-Srabon-black?color=2b2b2b&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/Srabon29776482)
-[![Email Address](https://img.shields.io/badge/%20-saon22@student.du.edu-black?color=2b2b2b&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:saonsrabon00@gmail.com)
+[![Email Address](https://img.shields.io/badge/%20-sikdersaon1@gmail.com-black?color=2b2b2b&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:sikdersaon1@gmail.com)
 
 ##### Talking about Personal Stuffs:
 - 🔭 I’m currently working on something cool :wink:
