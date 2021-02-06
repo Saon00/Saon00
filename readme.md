@@ -6,7 +6,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-SaonSikder-black?color=2b2b2b&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-saon-sikder-297a57187/)
 [![Facebook Follow](https://img.shields.io/badge/%20-SaonSrabon-black?color=2b2b2b&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/saon.srabon/)
 [![Instaagram Follow](https://img.shields.io/badge/%20-Saon__Srabon-black?color=2b2b2b&labelColor=FD1D1D&logo=instagram&logoColor=ffffff)](https://www.instagram.com/saon__srabon/)
-[![Twitter Follow](https://img.shields.io/badge/%20-Srabon-black?color=2b2b2b&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/Srabon29776482)
+[![Twitter Follow](https://img.shields.io/badge/%20-Srabon-black?color=2b2b2b&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/saon_srabon)
 [![Email Address](https://img.shields.io/badge/%20-sikdersaon1@gmail.com-black?color=2b2b2b&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:sikdersaon1@gmail.com)
 
 ##### Talking about Personal Stuffs:
