@@ -18,7 +18,7 @@
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to dance & make memes 😄
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saon00&text_color=91c752&bg_color=1f2430&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
@@ -29,7 +29,7 @@
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="INTELLIJ" width="26px" src="https://brandeps.com/logo-download/I/Intellij-Idea-logo-vector-01.svg" />
-<img align="left" alt="VSCODE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /><br><br><br>
+<img align="left" alt="VSCODE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /><br>
 
 #### 🔭 I'm currently Coding on:
 
