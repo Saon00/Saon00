@@ -4,10 +4,11 @@
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-SaonSikder-black?color=2b2b2b&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-saon-sikder-297a57187/)
-[![Facebook Follow](https://img.shields.io/badge/%20-SaonSrabon-black?color=2b2b2b&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/saon.srabon/)
-[![Instaagram Follow](https://img.shields.io/badge/%20-Saon__Srabon-black?color=2b2b2b&labelColor=FD1D1D&logo=instagram&logoColor=ffffff)](https://www.instagram.com/saon__srabon/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Saon_Srabon-black?color=2b2b2b&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/saon.srabon/)
+[![Instaagram Follow](https://img.shields.io/badge/%20-saon__srabon-black?color=2b2b2b&labelColor=FD1D1D&logo=instagram&logoColor=ffffff)](https://www.instagram.com/saon__srabon/)
 [![Twitter Follow](https://img.shields.io/badge/%20-Srabon-black?color=2b2b2b&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/saon_srabon)
 [![Email Address](https://img.shields.io/badge/%20-sikdersaon1@gmail.com-black?color=2b2b2b&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:sikdersaon1@gmail.com)
+[![Stack overflow Follow](https://img.shields.io/badge/%20-saon__srabon-black?color=2b2b2b&labelColor=F58025&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/13861162/saon-srabon)
 
 ##### Talking about Personal Stuffs:
 - 🔭 I’m currently working on something cool :wink:
@@ -15,23 +16,20 @@
 - I’m looking for help with Data Structures and Algorithms 😭;
 - 📫 How to reach me: [@saon__srabon](https://www.instagram.com/saon__srabon/)
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to dance & make memes 😄
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saon00&text_color=91c752&bg_color=1f2430&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://t3.ftcdn.net/jpg/01/28/83/52/240_F_128835225_ETbfxZ8gsQJj1IMPyhiGyChGup2fXkCc.jpg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="JAVA" width="26px" src="https://t3.ftcdn.net/jpg/01/28/83/52/240_F_128835225_ETbfxZ8gsQJj1IMPyhiGyChGup2fXkCc.jpg" />
+<img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-
-
-<br/>
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="INTELLIJ" width="26px" src="https://brandeps.com/logo-download/I/Intellij-Idea-logo-vector-01.svg" />
+<img align="left" alt="VSCODE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /><br><br><br>
 
 #### 🔭 I'm currently Coding on:
 
@@ -42,6 +40,7 @@
 - **JavaFX**: From Youtube and some other sources
 - **DS & Algo**: I need some better sources in Java Language
 - **Machine Learning**: From W3schools and some other sources 
+- **Flutter**: From Udemy
 
 #### 💬 I can help you with:
 
@@ -49,7 +48,7 @@
 
 #### 📸 I love to do:
 
-- Photography, Travelling, Cycling, Competitive Programming
+- Photography, Travelling, Cycling, Competitive Programming (Actually I hate this)
 
 <br/>
 
