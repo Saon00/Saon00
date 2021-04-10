@@ -17,8 +17,8 @@
 - 📫 How to reach me: [@saon__srabon](https://www.instagram.com/saon__srabon/)
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to dance & make memes 😄
-<br>
+- ⚡ Fun fact: I love to dance & make memes 😄<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saon00&text_color=91c752&bg_color=1f2430&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
