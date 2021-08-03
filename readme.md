@@ -1,6 +1,6 @@
 ### Hi , I'm [Saon!](https://github.com/Saon00) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saon00&label=Views&color=blue&style=plastic" alt="Saon00" /> </p>
-<h3>Currently I'm a student. I've some passion in developing Software. Besides, I like ML, AI too. <h3/>
+<h3>Currently I'm a student. I've some passion in developing Software.<h3/>
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-SaonSikder-black?color=2b2b2b&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-saon-sikder-297a57187/)
@@ -14,7 +14,7 @@
 
 ##### Talking about Personal Stuffs:
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning JavaFx, ML(not regular)
+- 🌱 I’m currently learning Dart, FLutter(not regular)
 - I’m looking for help with Data Structures and Algorithms 😭;
 - 📫 How to reach me: [@saonsrabon](https://www.instagram.com/saonsrabon/)
 - 🤝 I’m looking to collaborate with other content creators
@@ -40,16 +40,17 @@
 #### 🔭 I'm currently Coding on:
 
 - **HackerRank**: A modern online judge
+- **CodeForces**: I'm noob. Add me [@blacksa](https://codeforces.com/profile/blacksa)
+  
 
 #### 🌱 Currently learning:
 
-- **JavaFX**: From Youtube and some other sources
+- **Dart-Flutter**: From Youtube and some other sources
 - **DS & Algo**: I need some better sources in Java Language
-- **Flutter**: From Udemy
 
 #### 💬 I can help you with:
 
-- Core Java, Basics of Python, Basics of Machine Learning, Competitive Programming
+- Core Java, Basics of Python, Competitive Programming
 
 #### 📸 I love to do:
 
