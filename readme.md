@@ -1,62 +1,60 @@
-### Hi , I'm [Saon!](https://github.com/Saon00) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saon00&label=Views&color=blue&style=plastic" alt="Saon00" /> </p> -->
-<h3>Currently I'm a student. I've some passion in developing Software.<h3/>
+<h1 align="center">Hi 👻, I'm Saon Sikder</h1>
+<h3 align="center">Creating Software Development Contents & Designing Mobile Apps</h3>
 
-### Connect with me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-SaonSikder-black?color=2b2b2b&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-saon-sikder-297a57187/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Saon_Srabon-black?color=2b2b2b&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/saon.srabon/)
-[![Instaagram Follow](https://img.shields.io/badge/%20-saonsrabon-black?color=2b2b2b&labelColor=FD1D1D&logo=instagram&logoColor=ffffff)](https://www.instagram.com/saonsrabon/)
-[![Twitter Follow](https://img.shields.io/badge/%20-Srabon-black?color=2b2b2b&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/saon_srabon)
-[![Email Address](https://img.shields.io/badge/%20-sikdersaon1@gmail.com-black?color=2b2b2b&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:sikdersaon1@gmail.com)
-[![Stack overflow Follow](https://img.shields.io/badge/%20-saon__srabon-black?color=2b2b2b&labelColor=F58025&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/13861162/saon-srabon)
-[![Youtube Subscribe](https://img.shields.io/badge/%20-BlackOsRa-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/BlackOsRa)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saon00" alt="Saon00" /></a> </p>
 
+- 🍔 I’m currently working on **Flutter Statemanagements**
 
-##### Talking about Personal Stuffs:
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Dart, FLutter(not regular)
-- I’m looking for help with Data Structures and Algorithms 😭;
-- 📫 How to reach me: [@saonsrabon](https://www.instagram.com/saonsrabon/)
-- 🤝 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to dance & make memes 😄<br>
+- 🍿 I’m currently learning **Flutter State managements, APIs, etc.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saon00&text_color=91c752&bg_color=1f2430&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 📱 I uploads videos on [https://www.youtube.com/@BlackOsRa](https://www.youtube.com/@BlackOsRa)
 
-### Languages and Tools:
-<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
-<img align="left" alt="JAVA" width="26px" src="https://t3.ftcdn.net/jpg/01/28/83/52/240_F_128835225_ETbfxZ8gsQJj1IMPyhiGyChGup2fXkCc.jpg" />
-<img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="INTELLIJ" width="26px" src="https://brandeps.com/logo-download/I/Intellij-Idea-logo-vector-01.svg" />
-<img align="left" alt="VSCODE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-<img align="left" alt="DART" width="26px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G_400x400.jpg" />
-<img align="left" alt="FLUTTER" width="26px" src="https://i.pinimg.com/originals/c1/65/1f/c1651f598d212acdfe551f103548e495.png" />
-<img align="left" alt="ANDROIDSTUDEIO" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" /><br>
+- 🍰 Ask me about **c-java-python-dart-flutter**
 
-#### 🔭 I'm currently Coding on:
+<div align="left">
+  <a href="https://dribbble.com/srabon00" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="dribbble logo"  />
+  </a>
+  <a href="https://www.facebook.com/saon.srabon/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+  </a>
+  <a href="sikdersaon1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/saon_srabon" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/saon-sikder/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@sikdersaon1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="medium logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/13861162/saon-srabon" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://twitter.com/saon_srabon" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@BlackOsRa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  </a>
+</div>
 
-- **HackerRank**: A modern online judge
-- **CodeForces**: I'm noob. Add me [@blacksa](https://codeforces.com/profile/blacksa)
-  
+###
 
-#### 🌱 Currently learning:
+<br clear="both">
 
-- **Dart-Flutter**: From Youtube and some other sources
-- **DS & Algo**: I need some better sources in Java Language
+<p align="center">
+  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
+</p>
 
-#### 💬 I can help you with:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- Core Java, Basics of Python, Competitive Programming
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/" /></a></p><br><br>
 
-#### 📸 I love to do:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saon00&show_icons=true&locale=en&layout=compact" alt="Saon00" /></p>
 
-- Photography, Travelling, Cycling, Competitive Programming (Actually I hate this)
-
-<br/>
-
-
-[<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Saon00&count_private=true&show_icons=true&title_color=e2e9ec&icon_color=38a0ff&text_color=91c752&bg_color=1f2430"/>](https://github.com/Saon00/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saon00&" alt="Saon00" /></p>
