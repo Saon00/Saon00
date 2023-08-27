@@ -13,7 +13,7 @@
 
 
 - 🍔 I’m currently working on **Laundry App - Fec Thesis Publish App**
-- 📱 I uploads videos on [https://www.youtube.com/@BlackOsRa](https://www.youtube.com/@BlackOsRa)
+- 📱 I upload videos on [https://www.youtube.com/@BlackOsRa](https://www.youtube.com/@BlackOsRa)
 
 
 <div align="left">
