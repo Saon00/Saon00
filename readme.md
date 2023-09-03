@@ -12,7 +12,7 @@
 
 
 
-- 🍔 I’m currently working on **Laundry App - Fec Thesis Publish App**
+- 🍔 I’m currently working on **GETX - MACHINE LEARNING**
 - 📱 I upload videos on [https://www.youtube.com/@BlackOsRa](https://www.youtube.com/@BlackOsRa)
 
 
