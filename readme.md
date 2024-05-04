@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
 </div>
-
+<!--
   <p align="center">My GitHub Stats</p>
 
   <table align="center">
@@ -62,7 +62,7 @@
     </td>
   </tr>
 </table>
-<!--
+
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
 </p>
