@@ -3,7 +3,8 @@
 
 
 # ✅ What i'm doing now-a-days
-- 🍔 Current Research topics are **Rainfall Prediction - Lung Cancer - Cardiovascular Disease**
+- 🍔 Learning Django and Flutter Advance Topics
+- 🍔 Current Research topics are **Rainfall Prediction - Lung Cancer - Liver Disease Prediction**
 - 🍔 I upload videos on [https://www.youtube.com/@BlackOsRa](https://www.youtube.com/@BlackOsRa)
 
 
@@ -50,4 +51,5 @@
 <p><a href="https://www.buymeacoffee.com/SaonSikder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/" /></a></p>
 
 <p><a href="https://blackosra.gumroad.com/l/AppStarterKitBlackOsRa"> <img align="left" src="https://assets-global.website-files.com/6171b265e5c8aa59b42c3472/619fb5686c9b9b5f5a35020e_gumroad-og.png" height="50" width="210" alt="https://blackosra.gumroad.com/l/AppStarterKitBlackOsRa" /></a></p>
+
 
