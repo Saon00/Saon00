@@ -25,8 +25,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+<br>
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saon00\&layout=compact)
+-->
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Saon's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Saon00&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
 
 
 
@@ -51,5 +56,6 @@
 <p><a href="https://www.buymeacoffee.com/SaonSikder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/" /></a></p>
 
 <p><a href="https://blackosra.gumroad.com/l/AppStarterKitBlackOsRa"> <img align="left" src="https://assets-global.website-files.com/6171b265e5c8aa59b42c3472/619fb5686c9b9b5f5a35020e_gumroad-og.png" height="50" width="210" alt="https://blackosra.gumroad.com/l/AppStarterKitBlackOsRa" /></a></p>
+
 
 
