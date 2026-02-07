@@ -14,9 +14,9 @@
 </h3>
 
 <div align="center">
-  <a href="https://www.youtube.com/@BlackOsRa">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCxxxxxxxxxxxxxxxxxxxxxx?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&label=Subscribe" alt="YouTube Subscribers" />
-  </a>
+ <a href="https://www.youtube.com/@BlackOsRa">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCJwNRJtc_rh0s7wKNEPTjvQ?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&label=Subscribers" alt="YouTube Subscribers" />
+</a>
   <a href="https://github.com/Saon00?tab=followers">
     <img src="https://img.shields.io/github/followers/Saon00?style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
   </a>
@@ -76,12 +76,12 @@
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Saon00">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saon00&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Saon's GitHub stats" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saon00&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Saon00&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Saon's GitHub stats" />
+    <img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Saon00&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saon00&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="90%" />
@@ -115,3 +115,4 @@
 <div align="center">
   <sub>Thanks for stopping by! Let's connect and build something awesome together 🚀</sub>
 </div>
+
