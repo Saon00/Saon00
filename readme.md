@@ -1,61 +1,117 @@
-<h1 align="center">Hi 👻, I'm Saon Sikder</h1>
-<h3 align="center">Researching using AI&ML || Creating Software Development Contents || Designing Mobile Apps</h3>
-
-
-# ✅ What i'm doing now-a-days
-- 🍔 Learning Django and Flutter Advance Topics
-- 🍔 Current Research topics are **Rainfall Prediction - Lung Cancer - Liver Disease Prediction**
-- 🍔 I upload videos on [https://www.youtube.com/@BlackOsRa](https://www.youtube.com/@BlackOsRa)
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white&color=blue)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=%233FCF8E&color=black)
-![PostMan](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=%23FF6C37&color=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)<br>
-![OpenCV](https://img.shields.io/badge/opencv-black?style=for-the-badge&logo=supabase&logoColor=%235C3EE8&color=lightgreen)
-![Skit-Learn](https://img.shields.io/badge/scikitlearn-black?style=for-the-badge&logo=scikitlearn&logoColor=%23F7931E&color=blue)
-![Tensorflow](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=%23F7931E&color=black)<br>
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-<br>
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saon00\&layout=compact)
+<!-- 
+  Profile README for Saon Sikder – AI/ML Researcher & Flutter/Django Creator
+  Last updated: February 2026
 -->
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Saon's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Saon00&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4200&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Saon+Sikder+%F0%9F%91%BB;AI+%26+ML+Researcher+%7C+Flutter+%2F+Django+Developer;Creating+Educational+Content+%F0%9F%93%B9" alt="Typing SVG" />
+</div>
 
+<br/>
 
+<h3 align="center">
+  Turning data into insights • Building mobile & web apps • Sharing knowledge on YouTube
+</h3>
 
+<div align="center">
+  <a href="https://www.youtube.com/@BlackOsRa">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCxxxxxxxxxxxxxxxxxxxxxx?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&label=Subscribe" alt="YouTube Subscribers" />
+  </a>
+  <a href="https://github.com/Saon00?tab=followers">
+    <img src="https://img.shields.io/github/followers/Saon00?style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.buymeacoffee.com/SaonSikder">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</div>
 
-<!--  <p align="center">GitHub Commits Graph & Top Languages</p>
-<table>
-  <tr>
-    <td width="70%">
-      <a href="http://www.github.com/Saon00">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saon00&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-      </a>
-    </td>
-    <td width="30%">
-      <a href="https://github.com/Saon00" align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saon00&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table> -->
+<br/>
 
+## 🚀 What I'm Working On Right Now
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/SaonSikder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/" /></a></p>
+- 🔬 **Research**  
+  Rainfall Prediction • Lung Cancer Detection • Liver Disease Prediction  
+  (using time-series, computer vision & tabular ML approaches)
 
-<p><a href="https://blackosra.gumroad.com/l/AppStarterKitBlackOsRa"> <img align="left" src="https://assets-global.website-files.com/6171b265e5c8aa59b42c3472/619fb5686c9b9b5f5a35020e_gumroad-og.png" height="50" width="210" alt="https://blackosra.gumroad.com/l/AppStarterKitBlackOsRa" /></a></p>
+- 📱 **Mobile & Backend**  
+  Advanced Flutter (animations, state management, clean architecture)  
+  Django REST + Supabase / Firebase full-stack apps
 
+- 🎥 **Content Creation**  
+  Regular videos on AI/ML, Flutter tips, Django best practices  
+  → [youtube.com/@BlackOsRa](https://www.youtube.com/@BlackOsRa)
 
+<br/>
 
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</div>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <a href="https://github.com/Saon00">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saon00&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Saon's GitHub stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saon00&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saon00&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="90%" />
+</div>
+
+<br/>
+
+## 🌟 Highlighted Projects / Resources
+
+- **[App Starter Kit – BlackOsRa](https://blackosra.gumroad.com/l/AppStarterKitBlackOsRa)**  
+  Production-ready Flutter starter template (themes, auth, state, clean architecture)
+
+- YouTube tutorials → search **BlackOsRa** for Flutter deep-dives, ML projects, Django + AI
+
+<br/>
+
+## ☕ Support My Work
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/SaonSikder">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://blackosra.gumroad.com/l/AppStarterKitBlackOsRa">
+    <img src="https://img.shields.io/badge/Get%20App%20Starter%20Kit-black?style=for-the-badge&logo=gumroad&logoColor=white&color=FF5C5C" height="50" alt="Gumroad" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Thanks for stopping by! Let's connect and build something awesome together 🚀</sub>
+</div>
